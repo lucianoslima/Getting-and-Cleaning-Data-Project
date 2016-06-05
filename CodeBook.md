@@ -27,7 +27,6 @@ The R script run_analysis.R, reads the processed experiment data and performs th
 - Aggregate the data by subject and activity, calculating the mean of each variable into a new data frame.
 - Include the word avg in the beginning of each variable.
 - Write the summary dataset to file testTrainDataAvg.txt. 
-- 
 
 #Additional information
 Detailed information on the experiment and the data can be found in the README.txt and features_info.txt files included in the experiment data zip file or on the dataset homepage: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
