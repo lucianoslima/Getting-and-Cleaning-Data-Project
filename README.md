@@ -8,7 +8,7 @@ Here are the data for the project: https://d396qusza40orc.cloudfront.net/getdata
 
 #Contents:
 
-- CodeBook.md - describe the variables.
+- CodeBook.md - describe the variables and the steps taken to summarize the data.
 
 - run_analysis.R - R script to merge, clean-up, transform, and summarize the experiment data.
 
@@ -46,3 +46,5 @@ The R script run_analysis.R, reads the processed experiment data and performs th
 - Include the word avg in the beginning of each variable.
 - Write the summary dataset to file testTrainDataAvg.txt. 
 
+#Additional information
+Detailed information on the experiment and the data can be found in the README.txt and features_info.txt files included in the experiment data zip file or on the dataset homepage: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
