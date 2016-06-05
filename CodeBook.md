@@ -21,6 +21,7 @@ The R script run_analysis.R, reads the processed experiment data and performs th
 #Columns in output file.
 
 subject - identifies the volunteer (subject) who performed the activity for each window sample in the experiment. Its range is from 1 to 30. 
+
 activity - the description of the activity performed in the experiment: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
 The columns above are the variables of the experiment that represent the average for some selected variables in the project for the given subject and activity. Details of the different measurement type and how they have been measured can be found in the data zip file.
